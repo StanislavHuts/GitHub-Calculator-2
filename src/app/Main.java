@@ -11,6 +11,8 @@ public class Main {
         System.out.println(c);
         int d = multiply(a, b);
         System.out.println(d);
+        int e = division (a, b);
+        System.out.println(d);
     }
 
     private static int add(int a, int b) {
