@@ -12,7 +12,10 @@ public class Main {
         int d = multiply(a, b);
         System.out.println(d);
         int e = division (a, b);
-        System.out.println(d);
+        System.out.println(e);
+        int f = subtraction (a, b);
+        System.out.println(f);
+
     }
 
     private static int add(int a, int b) {
